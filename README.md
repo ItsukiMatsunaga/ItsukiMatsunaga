@@ -19,7 +19,7 @@
   - 競技プログラミングコンテストで使用
   - 2021-7~
   - Framework
-    - Flask
+    - TensorFlow ← 勉強中であります
 
 - Java
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png"></code>
